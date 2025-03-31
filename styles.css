@@ -21,13 +21,13 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #ff0000;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/cris1234.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
@@ -81,7 +81,7 @@ section {
     
     .inicio-fundo {
         /* aula 3 */
-        background-image: url('img/4965007.jpg');
+        background-image: url('img/cris1234.jpg');
         /* Substitua pelo caminho da sua imagem */
         background-size: cover;
         background-position: right;
